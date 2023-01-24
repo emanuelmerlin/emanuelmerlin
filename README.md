@@ -1,4 +1,4 @@
-### Olá! Sou o Emanuel Merin, estudante de programação
+### Olá! Sou o Emanuel Merlin, estudante de programação
 
 - 💼 Estou em busca do meu primeiro emprego
 - 📕 Estudando HTML, CSS, JavaScript
